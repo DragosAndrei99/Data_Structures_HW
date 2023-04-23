@@ -150,7 +150,8 @@ void HashTable::rehash()
 
     return;
 }
-
+// input file example
+// string string
 void readFromFile(HashTable& table)
 {
     std::fstream inputFile;

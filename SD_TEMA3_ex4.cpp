@@ -4,7 +4,7 @@
 #include <vector>
 #include <unordered_map>
 
-// input file under the below format / each row is a list or a separate competition
+// input cu formatul de mai jos / fiecare rand este o lista sau o competitie separata
 // Landon Gray Rosalie Fisher Alyssa Thompson Leo Collins Malik Patel Harper Davis Cedric Kim Kaitlyn Chens
 // Jaxon Wright Rosalie Fisher Camila Rodriguez Graham Peters Penelope Lee Trevor Brown Gia Nguyen Marcus Mitchell Fiona Turner
 // Xavier Rivera Sloane West Jaxon Wright Leo Collins Rylee Stewart Elijah Wright Rosalie Fisher

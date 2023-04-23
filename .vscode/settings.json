@@ -1,7 +1,5 @@
 {
     "files.associations": {
-        "xstring": "cpp",
-        "xhash": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
         "cctype": "cpp",
@@ -36,19 +34,20 @@
         "tuple": "cpp",
         "type_traits": "cpp",
         "typeinfo": "cpp",
+        "unordered_map": "cpp",
         "unordered_set": "cpp",
         "utility": "cpp",
         "vector": "cpp",
         "xfacet": "cpp",
+        "xhash": "cpp",
         "xiosbase": "cpp",
         "xlocale": "cpp",
         "xlocinfo": "cpp",
         "xlocnum": "cpp",
         "xmemory": "cpp",
         "xstddef": "cpp",
+        "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp",
-        "unordered_map": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+        "xutility": "cpp"
+    }
 }
